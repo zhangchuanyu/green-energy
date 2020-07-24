@@ -25,9 +25,7 @@ p,a,li,button{
 	font-size: 1rem;
 	font-family: 'Merriweather', serif;
 }
-p{
-	margin-left: -145px;
-}
+
 a:link{
 	text-decoration: none;}
 ul{
@@ -81,7 +79,7 @@ p{display: inline;}
 height: 400px;
 display: block;}
 p{display: block;
-margin-left: 0;}
+}
 footer{
 margin-top:0px;
 }
